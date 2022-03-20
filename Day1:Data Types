@@ -1,0 +1,19 @@
+i = 4
+d = 4.0
+s = 'HackerRank '
+# Declare second integer, double, and String variables.
+a1=0
+a2=0.0
+a3=''
+
+# Read and save an integer, double, and String to your variables.
+a1=int(input())
+a2=float(input())
+a3=input()
+# Print the sum of both integer variables on a new line.
+print(i+a1)
+# Print the sum of the double variables on a new line.
+print(d+a2)
+# Concatenate and print the String variables on a new line
+print(s+a3)
+# The 's' variable above should be printed first.
